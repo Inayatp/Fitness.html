@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta hame="vieport" content="width=device-width, initial-scale=1.0">
+        <title>Doucument</title>
+        <link rel="stylesheet" href="gym.css">
+       <!-- <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Catamaran:wght@2008">-->
+    </head>
+
+<body>
+    <div class="container">
+        <nav> 
+            <div class="logo">
+                <h1>Fit N Fine</h1>
+            </div>
+            <ul>
+                <a href="">HOME</a>
+                <a id="members"href="#member">MEMBER</a>
+                <a id="programs"href="#program">PROGRAM</a>
+                <a id="abouts"href="#program">ABOUT</a>
+                </div>
+            </nav>
+
+            <!-- main -->
+             <div class="main">
+                <div class="mainText">
+                    <h1> Let's Take First Step </h1>
+                    <h2> 30% Off On Membership </h2>
+                    <p> Loream ipsum dolor sit amet consectetur adipisicing<br>
+                    elit.Ex rem tempore sapiente nobis ad! </p>
+                    <button> Let's Start </button>
+                </div>
+               <img src="gym1.jpg" alt>
+             </div>
+
+             <!-- slide -->
+              <div class="slidebar"id="member">
+                <div class="head">
+                    <h1> Fit N Fine <span> Member</span></h1>
+                </div>
+
+
+                <div class="slide">
+                    <img src="slide1.jpg"alt="">
+                    <img src="slide2.jpg"alt="">
+                    <img src="slide3.jpg"alt="">
+                </div>
+
+                <!-- program -->
+                 <div class="pro"id="program">
+                    <div class="head">
+                        <h1> Our <span> Programs</span></h1>
+                    </div>
+                    
+                    <div class="proCard">
+                        <img src="gym0.jpg">
+                        <h2>Dance</h2>
+                    </div>
+
+            
+                <div class="proCard">
+                    <img src="home.jpg" alt="">
+                    <h2>Cardio</h2>
+                </div>
+
+            
+            <div class="proCard">
+                <img src="gyma.jpg" alt="">
+                <h2>Heavy Workout</h2>
+            </div>
+            </div>
+    
+         
+        </div>
+
+        <!--about-->
+        <div class="abo"id="about">
+            <div class="head">
+                <h1> About <span> Us</span></h1>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing
+                    elit. Debitis laboriosam quis dolores eveniet quia
+                    aliduid aspernatur nam possimus quis<br>
+                    Fitness is a very personal term!  Fitness is is having a 
+                    healthy mind, body, and spirit to allow you to maximize your potential and
+                    <br> help others maximize their potential.  Your definition of fitness
+                     will be influenced by your interests, physical abilities,
+                     <br>and goals.
+
+                    Being physically fit and healthy involves having a fit:<br>
+                    1. Mind<br>
+                    2. Body<br>
+                    3. Spirit 
+                     </P>
+            </div>
+        </div>
+
+        <!--footer-->
+       <div class="footer">
+        <div class="text">
+            <h2>Service</h2>
+            <p>Satisfaction</p>
+            <p>Our Service</p>
+            <p>Price</p>
+            <p>Offerdable</p>
+            <p>quality</p>
+        </div>
+
+    <div class="text">
+        <h2>Training</h2>
+        <p>Trainer</p>
+        <p>Personal</p>
+        <p>Offer</p>
+        <p>New</p>
+    </div>
+
+<div class="text">
+    <h2>Address</h2>
+    <p>Swift Road</p>
+    <p>Sector 144</p>
+    <p>Gachiwobli</p>
+    <p>Hyderabad</p>
+</div>
+
+<div class="text">
+    <h2>Contact</h2>
+    <p>Mob:-5676732876</p>
+    <p>Email:-Fitnfine143@gmail.com</p>
+</div>
+</div>
+</div>
+
+
+    </div>
+    <script src="script.js"></script>
+
+</body>
+</html>
+
